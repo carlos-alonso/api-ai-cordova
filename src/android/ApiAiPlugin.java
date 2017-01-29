@@ -45,11 +45,11 @@ import com.google.gson.JsonSyntaxException;
 import android.Manifest;
 import android.content.pm.PackageManager;
 
-import ai.api.AIConfiguration;
+import ai.api.android.AIConfiguration;
 import ai.api.AIListener;
-import ai.api.AIService;
+import ai.api.android.AIService;
 import ai.api.RequestExtras;
-import ai.api.GsonFactory;
+import ai.api.android.GsonFactory;
 import ai.api.model.AIContext;
 import ai.api.model.AIError;
 import ai.api.model.AIRequest;
