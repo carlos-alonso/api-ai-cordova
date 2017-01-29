@@ -1,3 +1,6 @@
+
+# Notice: This a test fork, not ready for use yet. 
+
 api-ai-cordova
 ==============
 
